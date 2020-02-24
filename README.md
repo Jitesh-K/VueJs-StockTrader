@@ -1,6 +1,7 @@
 # vue-cli
 
 > A Vue.js project
+Firebase Hosting url : https://vuejs-stocktrader-169f0.web.app/
 
 ## Build Setup
 
